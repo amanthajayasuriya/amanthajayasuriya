@@ -47,7 +47,7 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100008182780369
 [instagram]: https://www.instagram.com/ama_jay06/
-[linkedin]: www.linkedin.com/in/amanthajayasuriya
+[linkedin]: https://www.linkedin.com/in/amanthajayasuriya/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
